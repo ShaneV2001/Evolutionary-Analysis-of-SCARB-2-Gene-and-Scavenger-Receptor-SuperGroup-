@@ -1,6 +1,5 @@
 # Project Repo: Analysis on SCARB-2 Gene (XP_021375881)
 
-Copyright Shane Varghese. Extra Credit Github Repo
 
 
 ## Preamble
