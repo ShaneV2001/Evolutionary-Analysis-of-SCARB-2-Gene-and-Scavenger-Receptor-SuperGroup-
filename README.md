@@ -1,11 +1,8 @@
 # Project Repo: Analysis on SCARB-2 Gene (XP_021375881)
 
 
-
 ## Preamble
 SCARB-2 Gene is named "project" for simplicity in editing command lines. All references and version numbers will be located in the Papers Citations. 
-
-*WORK ON ADJUSTING CONTENTS HYPERLINKS*
 
 # 1. Homolog Collection with BLAST
 
